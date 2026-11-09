@@ -84,6 +84,10 @@ Open `http://localhost:3000/setup`, complete the wizard, and the same container 
 
 For local development, follow [SETUP.md](SETUP.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/CompDesk/)
+
 ## Screenshots
 
 ### Login
